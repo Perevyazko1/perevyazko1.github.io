@@ -169,7 +169,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #ba8b57;
   margin: 0 auto;
 }
 
@@ -339,7 +339,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0078ff;
+  background: #ba8b57;
   width: 40px;
   height: 40px;
   border-radius: 50px;
