@@ -145,7 +145,7 @@ a:hover {
 /*--/ Title s /--*/
 .title-s {
   font-weight: 600;
-  color: #1e1e1e;
+  color: #ba8b57;
   font-size: 1.1rem;
 }
 
@@ -849,7 +849,7 @@ a:hover {
 }
 
 .skill-mf .progress {
-  background-color: #cde1f8;
+  background-color: #41464b;
   margin: 0.5rem 0 1.2rem 0;
   border-radius: 0;
   height: 0.7rem;
@@ -857,7 +857,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background: linear-gradient(to right, #f68114, pink);
+  background: linear-gradient(to right, #ba8b57, #ede8e2);
 }
 
 /*--------------------------------------------------------------
