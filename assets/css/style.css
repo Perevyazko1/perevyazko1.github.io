@@ -858,8 +858,29 @@ a:hover {
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
   background: linear-gradient(to right, #ba8b57, #ede8e2);
+  position: relative;
+  animation: fillBars 2.5s 1;
 }
 
+/*.skill-mf .progress .progress-bar::before {*/
+/*  content: attr(mf);*/
+/*  position: absolute;*/
+/*  transform: translateX(50%);*/
+/*}*/
+
+/*.skill-mf .progress .progress-bar::after {*/
+/*  content: "";*/
+/*  position: absolute;*/
+/*  transform: translateX(50%) rotate(45deg);*/
+/*}*/
+/*@keyframes fillBars {*/
+/*  from{*/
+/*    width: 0;*/
+/*  }*/
+/*  to{*/
+/*    width: 100%;*/
+/*  }*/
+/*}*/
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -869,6 +890,7 @@ a:hover {
   border-radius: 1rem;
   margin-bottom: 3rem;
   text-align: center;
+  height: 330px;
 }
 
 .service-box:hover .ico-circle {
