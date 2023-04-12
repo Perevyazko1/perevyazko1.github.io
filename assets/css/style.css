@@ -666,7 +666,7 @@ a:hover {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: rgba(0,0,0,.5);
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -691,7 +691,7 @@ a:hover {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #0078ff;
+  color: #ba8b57;
 }
 
 .navbar-mobile .getstarted,
