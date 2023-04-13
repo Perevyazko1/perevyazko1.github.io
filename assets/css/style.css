@@ -862,25 +862,6 @@ a:hover {
   animation: fillBars 2.5s 1;
 }
 
-/*.skill-mf .progress .progress-bar::before {*/
-/*  content: attr(mf);*/
-/*  position: absolute;*/
-/*  transform: translateX(50%);*/
-/*}*/
-
-/*.skill-mf .progress .progress-bar::after {*/
-/*  content: "";*/
-/*  position: absolute;*/
-/*  transform: translateX(50%) rotate(45deg);*/
-/*}*/
-/*@keyframes fillBars {*/
-/*  from{*/
-/*    width: 0;*/
-/*  }*/
-/*  to{*/
-/*    width: 100%;*/
-/*  }*/
-/*}*/
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
